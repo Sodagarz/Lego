@@ -1,0 +1,15 @@
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.csproj.AssemblyReference.cache
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.AssemblyInfoInputs.cache
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.AssemblyInfo.cs
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.csproj.CoreCompileInputs.cache
+C:\Users\ssfje\Lego\bin\Debug\net6.0\Lego.exe
+C:\Users\ssfje\Lego\bin\Debug\net6.0\Lego.deps.json
+C:\Users\ssfje\Lego\bin\Debug\net6.0\Lego.runtimeconfig.json
+C:\Users\ssfje\Lego\bin\Debug\net6.0\Lego.dll
+C:\Users\ssfje\Lego\bin\Debug\net6.0\Lego.pdb
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.dll
+C:\Users\ssfje\Lego\obj\Debug\net6.0\refint\Lego.dll
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.pdb
+C:\Users\ssfje\Lego\obj\Debug\net6.0\Lego.genruntimeconfig.cache
+C:\Users\ssfje\Lego\obj\Debug\net6.0\ref\Lego.dll
